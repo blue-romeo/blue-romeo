@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on object tracking and detection<br>👯 I’m looking to collaborate on ml projects<br>💬 Ask me about anything<br>
+🔭 I’m currently working on building an e-commerce website<br>👯 I’m looking to collaborate on react projects<br>💬 Ask me about anything<br>
 
 
 ## 🌐 Socials:
